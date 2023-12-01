@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Snappy",
+    "imageSrc": "projects/project.png",
+    "description": " Connect globally by sharing Snapps on this Social Media Platform",
+    "skills": [
+      "Slatejs",
+      "Bootstrap",
+      "Framer",
+      "Reactjs",
+      "Nodejs",
+      "Expresjs",
+      "MongoDB"
+    ],
+    "demo": "https://snappy-btu5.onrender.com/login",
+    "source": "https://github.com/celociousalltrin/Snappy"
+  }
+]
