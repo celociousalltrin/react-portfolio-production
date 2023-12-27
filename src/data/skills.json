@@ -40,7 +40,7 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Mongoose",
+    "title": "Mongoose ODM",
     "imageSrc": "skills/mongoose.png"
   }
 ]

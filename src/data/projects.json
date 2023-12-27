@@ -11,7 +11,7 @@
       "Nodejs",
       "Expresjs",
       "MongoDB",
-      "Mongoosejs"
+      "Mongoose ODM"
     ],
     "demo": "https://snappy-btu5.onrender.com/login",
     "source": "https://github.com/celociousalltrin/Snappy"
