@@ -20,7 +20,7 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
-                and optimized sites
+                and optimized Mobile and Web Application.
               </p>
             </div>
           </li>
@@ -30,7 +30,7 @@ export const About = () => {
               <h3>Backend Developer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
-                and APIs
+                and APIs.
               </p>
             </div>
           </li>
@@ -40,7 +40,7 @@ export const About = () => {
               <h3>Full Stack Developer</h3>
               <p>
                 I have Build a responsive interfaces, secure APIs, and scalable
-                databases for applications
+                databases for applications.
               </p>
             </div>
           </li>

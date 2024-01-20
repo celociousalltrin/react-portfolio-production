@@ -1,15 +1,11 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
     "title": "Bootstrap",
     "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
   },
   {
     "title": "Framer",
@@ -26,6 +22,10 @@
   {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/react-native.png"
   },
   {
     "title": "Node",
