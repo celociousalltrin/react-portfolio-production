@@ -4,10 +4,6 @@
     "imageSrc": "skills/bootstrap.png"
   },
   {
-    "title": "Tailwind CSS",
-    "imageSrc": "skills/tailwind.png"
-  },
-  {
     "title": "Framer",
     "imageSrc": "skills/framer-motion.png"
   },
@@ -18,6 +14,10 @@
   {
     "title": "TypeScript",
     "imageSrc": "skills/Typescript.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python-logo.png"
   },
   {
     "title": "React",
@@ -42,5 +42,9 @@
   {
     "title": "Mongoose ODM",
     "imageSrc": "skills/mongoose.png"
+  },
+  {
+    "title": "Prisma ORM",
+    "imageSrc": "skills/prisma.png"
   }
 ]
