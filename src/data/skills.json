@@ -44,6 +44,14 @@
     "imageSrc": "skills/mongoose.png"
   },
   {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.webp"
+  },
+  {
+    "title": "Postgres",
+    "imageSrc": "skills/postgres.png"
+  },
+  {
     "title": "Prisma ORM",
     "imageSrc": "skills/prisma.png"
   }
