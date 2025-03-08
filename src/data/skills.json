@@ -4,8 +4,8 @@
     "imageSrc": "skills/bootstrap.png"
   },
   {
-    "title": "Framer",
-    "imageSrc": "skills/framer-motion.png"
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwind.png"
   },
   {
     "title": "JavaScript",
@@ -24,10 +24,6 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "React Native",
-    "imageSrc": "skills/react-native.png"
-  },
-  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
@@ -36,23 +32,19 @@
     "imageSrc": "skills/expressjs.png"
   },
   {
+    "title": "Django",
+    "imageSrc": "skills/django.svg"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Mongoose ODM",
-    "imageSrc": "skills/mongoose.png"
-  },
-  {
-    "title": "SQL",
-    "imageSrc": "skills/SQL.webp"
-  },
-  {
-    "title": "Postgres",
+    "title": "PostgreSQL",
     "imageSrc": "skills/postgres.png"
   },
   {
-    "title": "Prisma ORM",
-    "imageSrc": "skills/prisma.png"
+    "title": "Mongoose",
+    "imageSrc": "skills/mongoose.png"
   }
 ]

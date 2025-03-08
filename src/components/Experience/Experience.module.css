@@ -27,6 +27,9 @@
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
+  align-items: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .skill {
