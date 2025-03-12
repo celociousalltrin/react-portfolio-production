@@ -32,10 +32,6 @@
     "imageSrc": "skills/expressjs.png"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/django.svg"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
