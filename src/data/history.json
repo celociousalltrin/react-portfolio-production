@@ -5,13 +5,10 @@
     "startDate": "Oct, 2022",
     "endDate": "March,2024",
     "experiences": [
-      "Design and implementation of the application's user interface using Bootstrap",
-      "Implemented Authentication and User Based Authorization using JWT",
-      "Incorporated Slate.js for rich text editing",
-      "Utilized DocuSign for Streamlined electronic Signature",
-      "Used React.js to craft interactive components, optimizing performance and user engagement",
-      "Implemented RESTful APIs for smooth front-end to back-end communication",
-      "Utilized MongoDB for database architecture, enhancing scalability and flexibility"
+      "Developed a MERN-based investment platform supporting multiple tenants and investors for seamless project management.",
+      "Designed admin tools for project listings, metadata management, and super admin control, improving operational efficiency.",
+      "Enhanced a cloud-based ERP solution covering finance, inventory, sales, HR, and manufacturing modules, boosting system reliability.",
+      "Collaborated with a cross-functional team to deliver full lifecycle solutions for multiple projects."
     ],
     "imageSrc": "history/google.png"
   },
@@ -21,12 +18,10 @@
     "startDate": "April, 2024",
     "endDate": "Present",
     "experiences": [
-      "Developed and maintained front-end and back-end components for seamless user experience and functionality.",
-      "Implemented solutions to import Primavera P6 and Microsoft Project (MPP) files, improving project data accessibility and tracking.",
-      "Created and optimized APIs to streamline file imports and efficiently handle large data sets.",
-      "Built dynamic, user-friendly interfaces aligned with user needs and functionality.",
-      "Developed optimized server-side logic and data storage for high-performance application support.",
-      "Collaborated with cross-functional teams to resolve integration issues, ensuring data accuracy and system reliability."
+      "Built calendar and scheduling modules with baselines, status tracking, and Gantt chart enhancements.",
+      "Implemented advanced task management features including sub-tasks, task indentation, and import exception layouts",
+      "Upgraded  scheduler to support third-party imports, including P6 and MPP files.",
+      "Developed a full-stack healthcare platform with patient registration, appointment scheduling, and medical record management."
     ],
     "imageSrc": "history/google.png"
   }
