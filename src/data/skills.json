@@ -24,6 +24,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Vue",
+    "imageSrc": "skills/vuelogo.webp"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
@@ -42,9 +46,5 @@
   {
     "title": "PostgreSQL",
     "imageSrc": "skills/postgres.png"
-  },
-  {
-    "title": "Mongoose",
-    "imageSrc": "skills/mongoose.png"
   }
 ]
