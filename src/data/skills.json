@@ -1,11 +1,31 @@
 [
   {
-    "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
   },
   {
-    "title": "TailwindCSS",
-    "imageSrc": "skills/tailwind.png"
+    "title": "Spring Boot",
+    "imageSrc": "skills/Spring Boot.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgres.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Redis",
+    "imageSrc": "skills/Redis.webp"
+  },
+  {
+    "title": "Apache Kafka",
+    "imageSrc": "skills/Kafka.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
   },
   {
     "title": "JavaScript",
@@ -16,18 +36,6 @@
     "imageSrc": "skills/Typescript.png"
   },
   {
-    "title": "Python",
-    "imageSrc": "skills/python-logo.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Vue",
-    "imageSrc": "skills/vuelogo.webp"
-  },
-  {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
@@ -36,15 +44,7 @@
     "imageSrc": "skills/expressjs.png"
   },
   {
-    "title": "Django",
-    "imageSrc": "skills/django.svg"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "PostgreSQL",
-    "imageSrc": "skills/postgres.png"
+    "title": "Vue",
+    "imageSrc": "skills/vuelogo.webp"
   }
 ]

@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Celocious Altrin</h1>
         <p className={styles.description}>
-          I'm a Full Stack Developer with over 3 years of experience.
+          I'm a Backend Engineer with 4 years of experience.
         </p>
         <a
           href="mailto:celociousalltrinmf@gmail.com"
@@ -19,7 +19,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/heroImage10.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

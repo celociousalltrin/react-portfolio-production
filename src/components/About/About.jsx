@@ -15,32 +15,32 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized Mobile and Web Application.
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Backend Engineer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs.
+                Experience in Building scalable backend systems, REST APIs, and
+                microservices using Java, Spring Boot, PostgreSQL, and MongoDB.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Full Stack Developer</h3>
+              <h3>Full Stack Development</h3>
               <p>
-                I have Build a responsive interfaces, secure APIs, and scalable
-                databases for applications.
+                Developing end-to-end applications using React, Node.js, Spring
+                Boot, and modern backend technologies.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Frontend Development</h3>
+              <p>
+                Creating responsive and user-friendly web applications with
+                React and modern JavaScript frameworks.
               </p>
             </div>
           </li>

@@ -1,14 +1,12 @@
 [
   {
-    "role": "ReactJS Developer",
-    "organisation": "CloudPencils Private Limited",
-    "startDate": "Oct, 2022",
-    "endDate": "March,2024",
+    "role": "Backend Engineer",
+    "organisation": "Deloitte",
+    "startDate": "Feb, 2026",
+    "endDate": "Present",
     "experiences": [
-      "Developed a MERN-based investment platform supporting multiple tenants and investors for seamless project management.",
-      "Designed admin tools for project listings, metadata management, and super admin control, improving operational efficiency.",
-      "Enhanced a cloud-based ERP solution covering finance, inventory, sales, HR, and manufacturing modules, boosting system reliability.",
-      "Collaborated with a cross-functional team to deliver full lifecycle solutions for multiple projects."
+      "Worked on backend API integration for chatbot and admin dashboard, supporting data flow and feature development.",
+      "Contributing to development of chatbot and admin dashboard features by integrating APIs and handling structured data."
     ],
     "imageSrc": "history/google.png"
   },
@@ -16,12 +14,21 @@
     "role": "Software Development Engineer",
     "organisation": "Linarc",
     "startDate": "April, 2024",
-    "endDate": "Present",
+    "endDate": "Feb, 2026",
     "experiences": [
-      "Built calendar and scheduling modules with baselines, status tracking, and Gantt chart enhancements.",
-      "Implemented advanced task management features including sub-tasks, task indentation, and import exception layouts",
-      "Upgraded  scheduler to support third-party imports, including P6 and MPP files.",
-      "Developed a full-stack healthcare platform with patient registration, appointment scheduling, and medical record management."
+      "Designed and developed scalable scheduling modules (Gantt charts, baselines, status tracking), improving planning eﬃciency by 35%.",
+      "Integrated third-party schedule imports (P6, MPP), enabling seamless data migration for enterprise clients ."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "CloudPencils Private Limited",
+    "startDate": "Oct, 2022",
+    "endDate": "March,2024",
+    "experiences": [
+      "Developed an investment platform with backend services for investor management, project workflows, and scalable data handling.",
+      "Enhanced a cloud-based ERP solution covering finance, inventory, sales, HR, and manufacturing modules, boosting system reliability."
     ],
     "imageSrc": "history/google.png"
   }
